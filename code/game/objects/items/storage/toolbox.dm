@@ -181,6 +181,18 @@
 	new /obj/item/multitool(src)
 	new /obj/item/clothing/gloves/combat(src)
 
+/obj/item/storage/toolbox/syndicate/old
+	name = "worn suspicious looking toolbox"
+	desc = "Old and rusted, its structural integrity is not what it once was."
+	force = 10
+	throwforce = 12
+
+/obj/item/storage/toolbox/syndicate/old/PopulateContents()
+	new /obj/item/screwdriver(src)
+	new /obj/item/wrench(src)
+	new /obj/item/clothing/gloves/fingerless(src)
+	new /obj/item/wirecutters(src, "red")
+
 /obj/item/storage/toolbox/drone
 	name = "mechanical toolbox"
 	icon_state = "blue"
