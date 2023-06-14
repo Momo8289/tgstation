@@ -96,3 +96,6 @@
 /area/ruin/unpowered/ratvar
 	outdoors = TRUE
 	ambient_buzz = 'sound/ambience/magma.ogg'
+
+/area/ruin/unpowered/syndie_robotics_lab
+	name = "Abandoned Syndicate Robotics Lab"

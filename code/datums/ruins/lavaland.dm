@@ -275,3 +275,12 @@
 	suffix = "lavaland_surface_phonebooth.dmm"
 	allow_duplicates = FALSE
 	cost = 5
+
+/datum/map_template/ruin/lavaland/synide_robotics_lab
+	name = "Abandoned Syndicate Robotics Lab"
+	id = "abandoned_syndie_robotics_lab"
+	description = "An abandoned syndicate robotics lab. The atrocities committed here only marginally surpass those done in NT facilities."
+	suffix = "syndie_robotics_base.dmm"
+	always_place = TRUE
+	cost = 0
+	allow_duplicates = FALSE

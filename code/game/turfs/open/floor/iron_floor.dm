@@ -106,6 +106,9 @@
 	base_icon_state = "darkfull"
 	floor_tile = /obj/item/stack/tile/iron/dark
 
+/turf/open/floor/iron/dark/lavaland
+	initial_gas_mix = LAVALAND_DEFAULT_ATMOS
+
 /turf/open/floor/iron/dark/smooth_edge
 	icon_state = "dark_edge"
 	base_icon_state = "dark_edge"
@@ -219,6 +222,9 @@
 	icon_state = "white"
 	base_icon_state = "white"
 	floor_tile = /obj/item/stack/tile/iron/white
+
+/turf/open/floor/iron/white/lavaland
+	initial_gas_mix = LAVALAND_DEFAULT_ATMOS
 
 /turf/open/floor/iron/white/smooth_edge
 	icon_state = "white_edge"

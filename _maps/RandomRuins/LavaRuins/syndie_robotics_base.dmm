@@ -1,0 +1,417 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"c" = (
+/obj/structure/table/reinforced,
+/obj/item/book/manual/wiki/robotics_cyborgs,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"d" = (
+/obj/item/circular_saw,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"e" = (
+/obj/effect/decal/cleanable/robot_debris/down,
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"f" = (
+/obj/structure/closet/crate/maint,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"j" = (
+/obj/machinery/conveyor_switch/oneway{
+	dir = 1;
+	id = "SRLRuins2";
+	pixel_x = 8
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"k" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/toolbox/syndicate/old,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"l" = (
+/obj/structure/frame/machine{
+	broken = 1;
+	anchored = 1;
+	can_be_unanchored = 1
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"o" = (
+/obj/machinery/conveyor_switch/oneway{
+	id = "SRLRuins1"
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"p" = (
+/obj/structure/closet/crate,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"q" = (
+/obj/item/robot_suit,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"t" = (
+/obj/structure/table/glass,
+/obj/item/mmi,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"v" = (
+/mob/living/simple_animal/hostile/asteroid/hivelord/legion,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"w" = (
+/turf/closed/wall/r_wall/syndicate,
+/area/ruin/unpowered/syndie_robotics_lab)
+"y" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"z" = (
+/obj/structure/door_assembly/door_assembly_vault{
+	broken = 1
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"A" = (
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"C" = (
+/obj/item/restraints/handcuffs/cable/red,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"D" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"E" = (
+/obj/effect/decal/remains/robot,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"F" = (
+/obj/structure/table/glass,
+/obj/item/storage/backpack/duffelbag/syndie/surgery/empty,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"G" = (
+/obj/machinery/door/airlock/external{
+	abandoned = 1
+	},
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"H" = (
+/obj/machinery/conveyor{
+	dir = 4;
+	id = "SRLRuins1"
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"I" = (
+/obj/structure/frame/computer{
+	broken = 1
+	},
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"L" = (
+/obj/structure/table/optable,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"N" = (
+/obj/structure/closet/crate/freezer/surplus_limbs,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"O" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"P" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"Q" = (
+/obj/machinery/mecha_part_fabricator/maint,
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"R" = (
+/obj/effect/decal/cleanable/blood/hitsplatter{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"Y" = (
+/obj/machinery/conveyor{
+	dir = 8;
+	id = "SRLRuins2"
+	},
+/turf/open/floor/iron/dark/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+"Z" = (
+/obj/item/scalpel,
+/turf/open/floor/iron/white/lavaland,
+/area/ruin/unpowered/syndie_robotics_lab)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(4,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(5,1,1) = {"
+a
+w
+w
+w
+w
+w
+w
+w
+w
+w
+a
+a
+a
+a
+a
+"}
+(6,1,1) = {"
+a
+w
+I
+C
+d
+Q
+H
+A
+E
+w
+a
+a
+a
+a
+a
+"}
+(7,1,1) = {"
+a
+w
+L
+y
+O
+o
+H
+A
+A
+w
+w
+w
+a
+a
+a
+"}
+(8,1,1) = {"
+a
+w
+N
+Z
+v
+O
+e
+O
+O
+G
+O
+G
+a
+a
+a
+"}
+(9,1,1) = {"
+a
+w
+F
+t
+A
+q
+A
+A
+c
+w
+w
+w
+a
+a
+a
+"}
+(10,1,1) = {"
+a
+w
+A
+A
+P
+j
+Y
+A
+k
+w
+a
+a
+a
+a
+a
+"}
+(11,1,1) = {"
+a
+w
+A
+A
+R
+l
+Y
+A
+D
+w
+a
+a
+a
+a
+a
+"}
+(12,1,1) = {"
+a
+w
+z
+w
+w
+w
+w
+w
+w
+w
+a
+a
+a
+a
+a
+"}
+(13,1,1) = {"
+a
+w
+A
+A
+w
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(14,1,1) = {"
+a
+w
+f
+p
+w
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(15,1,1) = {"
+a
+w
+w
+w
+w
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
