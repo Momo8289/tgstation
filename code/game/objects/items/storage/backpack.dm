@@ -604,6 +604,15 @@
 	new /obj/item/clothing/mask/muzzle(src)
 	new /obj/item/mmi/syndie(src)
 
+/obj/item/storage/backpack/duffelbag/syndie/surgery/empty
+	name = "old surgery duffel bag"
+	desc = "A suspicious looking duffel bag for holding surgery tools. It looks quite old."
+	icon_state = "duffel-syndiemed"
+	inhand_icon_state = "duffel-syndiemed"
+
+/obj/item/storage/backpack/duffelbag/syndie/surgery/PopulateContents()
+	return
+
 /obj/item/storage/backpack/duffelbag/syndie/ammo
 	name = "ammunition duffel bag"
 	desc = "A large duffel bag for holding extra weapons ammunition and supplies."
